@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Typing Animation Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Mahi+Siddhant+Sharma+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Mahi+Siddhant+Sharma+%F0%9F%91%8B" alt="Typing SVG" />
   
   <p>
     <em>Full Stack Web Development & Backend Optimisation<br/>Building scalable web apps from India , for India 🇮🇳</em>
